@@ -1,0 +1,13 @@
+{
+  "name": "gulp-imagemin-issue183",
+  "version": "1.0.0",
+  "dependencies": {
+    "del": "2.2.1",
+    "gulp": "3.9.1",
+    "gulp-imagemin": "3.0.1"
+  },
+  "scripts": {
+    "start": "npm install && node ./node_modules/gulp/bin/gulp.js default"
+  },
+  "author": "s100"
+}
